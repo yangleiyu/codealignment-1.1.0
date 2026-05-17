@@ -4,8 +4,6 @@
 
 本项目基于原 Notepad++ / Visual Studio 版 Code Alignment 插件完整移植。
 
-> 官方网站：[http://www.codealignment.com](http://www.codealignment.com)
-
 ---
 
 ## 安装方式
